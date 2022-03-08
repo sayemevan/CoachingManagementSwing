@@ -1,0 +1,2 @@
+# CoachingManagementSwing
+This a desktop based coaching management software which is developed by core java, swing, jdbc and MySQL. By this application user can manage a whole coaching center, here user can add/remove/update any student and teacher. User also can search student and teacher by many filter. Here is a simple calculation to collect payment from student and provide salary to teachers and finally balance also showed and also generate receipt and ID card.
